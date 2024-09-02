@@ -3,4 +3,6 @@ Kavin as Kanguva
 mani As mavuaati
 techm safi
 safi as techM
-kundu as kishore 
+<<<<<<< HEAD
+kundu,naruto as kishore
+jailer as venkatesh and vettaiyan 
