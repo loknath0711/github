@@ -1,4 +1,8 @@
 liger man
 Kavin as Kanguva
 mani As mavuaati
+<<<<<<< HEAD
 techm safi
+=======
+safi as techM
+>>>>>>> a8e56a4a7477fafd60da2733021d4ab077fcfd30
